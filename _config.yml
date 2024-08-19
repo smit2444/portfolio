@@ -2,13 +2,5 @@ title: Smitkumar Patel Portfolio
 logo: /assets/img/1696650798667.jpeg
 description: Aspiring Software Engineer.
 show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-# Site URL
-url: "https://sp2444.github.io"
-
-# Base URL
-baseurl: "/"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
