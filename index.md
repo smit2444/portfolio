@@ -4,7 +4,7 @@ layout: default
   <h2 class="section_title">Projects</h2>
   <div class="project_container">
   <div class="card">
-    <img class="card-image" src="/assets/img/Syfer Chat.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Syfer Chat.png" alt="Project Image">
     <h2 class="item_title">Syfer Chat - Realtime Text Messages</h2>
     <ul class="skills">
       <li>Firebase</li>
@@ -17,7 +17,7 @@ layout: default
   </div>
   
   <div class="card">
-    <img class="card-image" src="/assets/img/Collabrative Research Web Application.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Collabrative Research Web Application.png" alt="Project Image">
     <h2 class="item_title">Accelerating Genomic Data Sharing and Collaborative Research with Privacy Protection</h2>
     <ul class="skills">
       <li>React JS</li>
@@ -32,7 +32,7 @@ layout: default
     <a href="/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
   </div>
   <div class="card">
-    <img class="card-image" src="/assets/img/Planton Classification.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Planton Classification.png" alt="Project Image">
     <h2 class="item_title">Classification of Plankton using Deep Neural Networks</h2>
     <ul class="skills">
       <li>Python</li>
