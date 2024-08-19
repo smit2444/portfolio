@@ -9,7 +9,7 @@ layout: default
 </a>
 </div>
 <div class="card">
-    <img class="card-image" src="/assets/img/Syfer Chat.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Syfer Chat.png" alt="Project Image">
     <ul class="skills">
       <li>Firebase</li>
       <li>ReactJS</li>
