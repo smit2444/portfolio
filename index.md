@@ -13,7 +13,7 @@ layout: default
       <li>Firestore</li>                                                            
     </ul>
     <p class="item_des">Developed a dynamic chat application featuring real-time messaging and user authentication. </p>
-    <a href="/pages/syferchat" class="read-more"><button class="button">Read More</button></a>
+    <a href="/portfolio/pages/syferchat" class="read-more"><button class="button">Read More</button></a>
   </div>
   
   <div class="card">
@@ -28,7 +28,7 @@ layout: default
       <li>REST APIs</li>                                                            
     </ul>
     <p class="item_des">This is a project. It explains the key aspects and contributions of the project in a few sentences.</p>
-    <a href="/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
+    <a href="/portfolio/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
   </div>
   <!-- Add more cards here as needed -->
 </div>
