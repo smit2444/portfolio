@@ -2,14 +2,14 @@
 layout: default
 ---
 
-[<i class="fa-solid fa-arrow-left"></i>](/) 
+[<i class="fa-solid fa-arrow-left"></i>](/portfolio) 
 <div class="post_header">
 <h2 class="post_title">Syfer Chat - Realtime Text Messages</h2><a href="https://syferchat.netlify.app/">
   <button class="button">Live Demo</button>
 </a>
 </div>
 <div class="card">
-    <img class="card-image" src="/assets/img/Syfer Chat.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Syfer Chat.png" alt="Project Image">
     <ul class="skills">
       <li>Firebase</li>
       <li>ReactJS</li>
