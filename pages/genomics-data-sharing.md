@@ -9,7 +9,7 @@ layout: default
 </a>
 </div>
 <div class="card">
-    <img class="card-image" src="/assets/img/Collabrative Research Web Application.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Collabrative Research Web Application.png" alt="Project Image">
     <ul class="skills">
       <li>React JS</li>
       <li>Material UI</li>
