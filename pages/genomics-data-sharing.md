@@ -2,14 +2,14 @@
 layout: default
 ---
 
-[<i class="fa-solid fa-arrow-left"></i>](/) 
+[<i class="fa-solid fa-arrow-left"></i>](/portfolio) 
 <div class="post_header">
 <h2 class="post_title">Accelerating Genomic Data Sharing and Collaborative Research with Privacy Protection</h2><a href="https://reporter.nih.gov/search/8tAmmCEWvE-ll2Bqa4uMkw/project-details/10914232">
   <button class="button">Read Research Paper</button>
 </a>
 </div>
 <div class="card">
-    <img class="card-image" src="/assets/img/Collabrative Research Web Application.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Collabrative Research Web Application.png" alt="Project Image">
     <ul class="skills">
       <li>React JS</li>
       <li>Material UI</li>
