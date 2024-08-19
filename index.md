@@ -13,7 +13,7 @@ layout: default
       <li>Firestore</li>                                                            
     </ul>
     <p class="item_des">Developed a dynamic chat application featuring real-time messaging and user authentication. </p>
-    <a href="/pages/syferchat" class="read-more"><button class="button">Read More</button></a>
+    <a href="/portfolio/pages/syferchat" class="read-more"><button class="button">Read More</button></a>
   </div>
   
   <div class="card">
@@ -29,7 +29,7 @@ layout: default
       <li>UI/UX</li>                                                           
     </ul>
     <p class="item_des">Developed key web application components including the Dashboard, Search, Upload, and Collaboration pages, and designed API endpoints such as Send Invitation and Search to enhance functionality and user interaction.</p>
-    <a href="/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
+    <a href="/portfolio/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
   </div>
   <div class="card">
     <img class="card-image" src="/portfolio/assets/img/Planton Classification.png" alt="Project Image">
@@ -48,7 +48,7 @@ layout: default
       <li>Data Visulization</li>                                                        
     </ul>
     <p class="item_des">Preprocessed the IFCB plankton dataset by rescaling 1 million+ images, automating data cleaning, and addressing class imbalances. Developed an automated plankton identification system with a pre-trained VGG16 network, optimizing classification accuracy and reducing manual labeling.</p>
-    <a href="/pages/classification-of-plankton-using-deep-neural-networks" class="read-more"><button class="button">Read More</button></a>
+    <a href="/portfolio/pages/classification-of-plankton-using-deep-neural-networks" class="read-more"><button class="button">Read More</button></a>
   </div>
   <!-- Add more cards here as needed -->
 </div>
