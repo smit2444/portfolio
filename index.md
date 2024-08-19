@@ -4,7 +4,7 @@ layout: default
   <h2 class="section_title">Projects</h2>
   <div class="project_container">
   <div class="card">
-    <img class="card-image" src="/assets/img/Syfer Chat.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Syfer Chat.png" alt="Project Image">
     <h2 class="item_title">Syfer Chat</h2>
     <ul class="skills">
       <li>Firebase</li>
@@ -17,7 +17,7 @@ layout: default
   </div>
   
   <div class="card">
-    <img class="card-image" src="/assets/img/Collabrative Research Web Application.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Collabrative Research Web Application.png" alt="Project Image">
     <h2 class="item_title">Accelerating Genomic Data Sharing and Collaborative Research with Privacy Protection</h2>
     <ul class="skills">
       <li>Python</li>
