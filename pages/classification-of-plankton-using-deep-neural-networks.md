@@ -2,14 +2,14 @@
 layout: default
 ---
 
-[<i class="fa-solid fa-arrow-left"></i>](/) 
+[<i class="fa-solid fa-arrow-left"></i>](/portfolio) 
 <div class="post_header">
 <h2 class="post_title">Classification of Plankton using Deep Neural Networks</h2><a href="https://docs.google.com/document/d/1tu7Ypgp9k76RaQQJ1tQX44zW1pCJ1CKx_9y7Cyzj7AQ/edit?usp=sharing">
   <button class="button">Read Project Report</button>
 </a>
 </div>
 <div class="card">
-    <img class="card-image" src="/assets/img/Planton Classification.png" alt="Project Image">
+    <img class="card-image" src="/portfolio/assets/img/Planton Classification.png" alt="Project Image">
     <ul class="skills">
       <li>Python</li>
       <li>CNN</li>
