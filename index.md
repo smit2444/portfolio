@@ -93,18 +93,20 @@ layout: default
       <p class="job-dates">Jan. 2019 - June 2023</p>
     </div>
     <ul class="item_des">
-      <li>Completed 500+ full-stack website projects with consistent 5-star ratings, earning Top Rated Seller status for exceptional client satisfaction and timely delivery</li>
-      <li>Designed and implemented responsive user interfaces to enhance user experience, developed robust backend services using Node.js to manage server-side logic, and created REST APIs to facilitate efficient and secure interactions with databases</li>
-      <li>Conducted performance and security testing, applied Blue/Green deployment strategies, and collaborated with cross-functional teams for seamless software integration</li>
+      <li>Achieved Top Rated Seller status by completing over 500+ full-stack web development projects using JavaScript, HTML, CSS, PHP, and MySQL, consistently earning 5-star ratings for delivering high-quality results on time</li>
+      <li>Redesigned a client's website, resulting in a 70% increase in traffic and a 50% reduction in bounce rate, significantly improving user engagement and client satisfaction</li>
+      <li>Counseled clients on website optimization, user experience enhancements, and SEO strategies, resulting in over 15K+ impressions and $23,000 in sales within 24 hours for one of the projects</li>
     </ul>
     <ul class="skills">
-      <li>Node JS</li>
+      <li>PHP</li>
       <li>JavaScript</li>
       <li>HTML</li>
       <li>CSS</li>
+      <li>MySQL</li>
       <li>REST APIs</li>
       <li>WordPress</li>
       <li>Google Cloud Platform (GCP)</li>
+      <li>SEO</li>
 
     </ul>
   </div>
