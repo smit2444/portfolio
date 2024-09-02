@@ -138,7 +138,7 @@ layout: default
     <div class="experience-header">
       <div>
         <h2 class="item_title">M.Sc Information Technology and Analytics</h2>
-        <h3 class="company-name">Rutgers - The State University of New Jersey | GPA 3.5</h3>
+        <h3 class="company-name">Rutgers - The State University of New Jersey</h3>
       </div>
       <p class="present_date">Expected Dec. 2023</p>
     </div>
@@ -150,7 +150,7 @@ layout: default
     <div class="experience-header">
       <div>
         <h2 class="item_title">B.Sc in Electronics and Commincation</h2>
-        <h3 class="company-name">Charotar University of Science and Technology | GPA 3.69</h3>
+        <h3 class="company-name">Charotar University of Science and Technology</h3>
       </div>
       <p class="job-dates">May 2023</p>
     </div>
