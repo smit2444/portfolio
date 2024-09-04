@@ -63,9 +63,11 @@ layout: default
       <p class="present_date">Dec. 2023 - Present</p>
     </div>
     <ul class="item_des">
-      <li>Developed a Python-based ETL pipeline for automated web data scraping, cleaning, and integration into a web application, utilizing advanced machine learning algorithms for efficient data sorting
+      <li>Automated ETL process using Python and R to clean and extract web data, ensuring consistency and accuracy, and integrated structured data into a web application for seamless access and segregation
       </li>
-      <li>Contributed to a research initiative by implementing BERT and FastText for a robust text sanitization solution, enhancing data privacy and ensuring high accuracy and integrity
+      <li>Efficiently implemented RoBERTa with PyTorch for contextual embeddings in a healthcare text sanitization solution, applying rigorous evaluation metrics such as precision, recall, F1 score, and false positive/negative rates
+      </li>
+      <li>Conducted tests for model robustness and efficiency, including data coverage assessments and human evaluations, to ensure high performance and compliance with data protection standards
       </li>
     </ul>
     <ul class="skills">
@@ -93,9 +95,9 @@ layout: default
       <p class="job-dates">Jan. 2019 - June 2023</p>
     </div>
     <ul class="item_des">
-      <li>Achieved Top Rated Seller status by completing over 500+ full-stack web development projects using JavaScript, HTML, CSS, PHP, and PostgreSQL, consistently earning 5-star ratings for delivering high-quality results on time</li>
-      <li>Redesigned a client's website, resulting in a 70% increase in traffic and a 50% reduction in bounce rate, significantly improving user engagement and client satisfaction</li>
-      <li>Counseled clients on website optimization, user experience enhancements, and SEO strategies, resulting in over 15K+ impressions and $23,000 in sales within 24 hours for one of the projects</li>
+      <li>Completed over 500 full-stack web development projects, managing the entire development lifecycle from design through production and delivered solutions with high reliability, scalability, and security</li>
+      <li>Analyzed website traffic data using SQL and advanced analytics to identify optimization opportunities, resulting in a 70% increase in traffic and a 50% reduction in bounce rates</li>
+      <li>Provided strategic counsel on website optimization, user experience enhancements, and SEO, leveraging data analysis to drive over 15,000 impressions and $23,000 in sales within 24 hours for a key client</li>
     </ul>
     <ul class="skills">
       <li>PHP</li>
@@ -119,8 +121,9 @@ layout: default
       <p class="job-dates">June 2021 - May 2023</p>
     </div>
     <ul class="item_des">
-      <li>Created high-quality, mobile-responsive web pages using HTML5, CSS, and JavaScript, enhanced with Bootstrap and jQuery for optimal user experience</li>
-      <li>Implemented a marketing system using LeadDyno, integrating real-time user activity tracking with cookies and custom JavaScript, alongside PHP, and deployed on AWS for robust performance</li>
+      <li>Built high-quality web pages utilizing HTML5, CSS and JavaScript, combined with Bootstrap and jQuery frameworks to ensuring mobile-responsive functionality for optimal user experience</li>
+      <li>Developed robust APIs and server-side logic using Node.js and Express, facilitating seamless data transactions. Designed and implemented efficient data storage solutions with MySQL for relational data and MongoDB for NoSQL requirements</li>
+      <li>Implemented AWS Lambda for serverless functions and CloudWatch for system monitoring and logging, to ensure high availability and performance</li>
     </ul>
     <ul class="skills">
       <li>JavaScript</li>
