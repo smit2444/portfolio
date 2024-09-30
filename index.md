@@ -143,7 +143,7 @@ layout: default
         <h2 class="item_title">M.Sc Information Technology and Analytics</h2>
         <h3 class="company-name">Rutgers - The State University of New Jersey</h3>
       </div>
-      <p class="present_date">Expected Dec. 2023</p>
+<!--       <p class="present_date">Expected Dec. 2023</p> -->
     </div>
     <ul class="item_des">
       <li>Course Work: Data Structures and Algorithm, Data Mining, Business Data Management, Neural Networks and Deep Learning, Graph Methods and Network Analysis, and Analytics for Business Intelligence</li>
