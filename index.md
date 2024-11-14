@@ -63,26 +63,23 @@ layout: default
       <p class="present_date">Dec. 2023 - Present</p>
     </div>
     <ul class="item_des">
-      <li>Automated ETL process using Python and R to clean and extract web data, ensuring consistency and accuracy, and integrated structured data into a web application for seamless access and segregation
-      </li>
-      <li>Efficiently implemented RoBERTa with PyTorch for contextual embeddings in a healthcare text sanitization solution, applying rigorous evaluation metrics such as precision, recall, F1 score, and false positive/negative rates
-      </li>
-      <li>Conducted tests for model robustness and efficiency, including data coverage assessments and human evaluations, to ensure high performance and compliance with data protection standards
-      </li>
+      <li>Assessed project requirements and constraints to prepare large-scale datasets, ensuring alignment with research objectives and resource availability</li>
+  <li>Developed data extraction and cleaning pipelines, reducing processing time by 35% and mitigating potential risks for seamless data analysis</li>
+  <li>Implemented a Named Entity Recognition (NER) using SpaCy, to efficiently extract key entities from datasets, significantly enhancing the quality and efficiency of subsequent data analyses</li>
+  <li>Led embedded analysis research by utilizing BERT models (both uncased and cased) to investigate how word embeddings change with different contextual words, providing deeper insights into semantic relationships</li>
+  <li>Created a flexible embedding analysis tool using Python that integrates multiple models like RoBERTa and FastText, enabling easy compare and evaluate approach across various NLP frameworks</li>
+  <li>Performed detailed similarity assessments using cosine similarity and Hamming distance metrics to explore the relationships between target words in diverse contexts</li>
     </ul>
     <ul class="skills">
       <li>Python</li>
-      <li>React JS</li>
-      <li>Flask </li>
-      <li>MongoDB</li>
-      <li>HTML</li>
-      <li>CSS</li> 
-      <li>MUI</li>
-      <li>REST APIs</li>
+      <li>LLMs</li>
+      <li>NER </li>
+      <li>SpaCy</li>
+      <li>BERT</li>
       <li>Natural Language Processing (NLP)</li>
       <li>PyTorch</li>
       <li>Text Classification</li>
-      <li>Git</li> <li>Web Scrapping</li> <li>Data Cleaning</li>
+      <li>Git</li> <li>Web Scrapping</li> <li>Data Cleaning</li><li>Data Analysis</li>
     </ul>
   </div>
   
@@ -96,19 +93,30 @@ layout: default
     </div>
     <ul class="item_des">
       <li>Completed over 500 full-stack web development projects, managing the entire development lifecycle from design through production and delivered solutions with high reliability, scalability, and security</li>
+      <li>Developed high-performance responsive web components with millions of daily PVs to improve user experience and increase the conversion rate, using React JS, GraphQL, and parallel data fetching</li>
+      <li>Engineered robust micro-service solutions for low-latency queries from multiple heterogeneous massive data sources</li>
+      <li>Implemented version control management using GIT, ensuring collaboration and effective code management across distributed teams</li>
+      <li>Conducted extensive testing (unit, integration, and performance tests) to ensure the system was defect-free and compliant with industry standards, leveraging tools like PyTest and Jenkins for CI/CD</li>
       <li>Analyzed website traffic data using SQL and advanced analytics to identify optimization opportunities, resulting in a 70% increase in traffic and a 50% reduction in bounce rates</li>
       <li>Provided strategic counsel on website optimization, user experience enhancements, and SEO, leveraging data analysis to drive over 15,000 impressions and $23,000 in sales within 24 hours for a key client</li>
     </ul>
     <ul class="skills">
-      <li>PHP</li>
+      <li>ReactJS</li>
       <li>JavaScript</li>
       <li>HTML</li>
       <li>CSS</li>
-      <li>MySQL</li>
+      <li>GraphQL</li>
       <li>REST APIs</li>
+      <li>CDN</li>
+      <li>GIT</li>
+      <li>Code Review</li>
+      <li>UI/UX</li>
       <li>WordPress</li>
-      <li>Google Cloud Platform (GCP)</li>
+      <li>PyTest</li>
+      <li>Jenkins</li>
+      <li>CI/CD</li>
       <li>SEO</li>
+      <li>Web Analytics</li>
 
     </ul>
   </div>
@@ -129,6 +137,9 @@ layout: default
       <li>JavaScript</li>
       <li>HTML</li>
       <li>CSS</li>
+      <li>NodeJS</li>
+      <li>MySQL</li>
+      <li>REST API</li>
       <li>AWS</li>
       <li>WordPress</li>
     </ul>
@@ -146,7 +157,7 @@ layout: default
       <p class="present_date">May 2024</p>
     </div>
     <ul class="item_des">
-      <li>Course Work: Data Structures and Algorithm, Data Mining, Business Data Management, Neural Networks and Deep Learning, Graph Methods and Network Analysis, and Analytics for Business Intelligence</li>
+      <li>Course Work: Data Structures and Algorithm, Data Mining, Business Data Management, Neural Networks and Deep Learning, Graph Methods and Network Analysis, Analytics for Business Intelligence, and Algorithmic Machine Learning</li>
     </ul>
   </div>
   <div class="experience-container">  <div class="experience-card">
