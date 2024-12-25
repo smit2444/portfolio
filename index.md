@@ -12,23 +12,21 @@ layout: default
       <p class="present_date">Dec. 2023 - Present</p>
     </div>
     <ul class="item_des">
-      <li>Assessed project requirements and constraints to prepare large-scale datasets, ensuring alignment with research objectives and resource availability</li>
-  <li>Developed data extraction and cleaning pipelines, reducing processing time by 35% and mitigating potential risks for seamless data analysis</li>
-  <li>Implemented a Named Entity Recognition (NER) using SpaCy, to efficiently extract key entities from datasets, significantly enhancing the quality and efficiency of subsequent data analyses</li>
-  <li>Led embedded analysis research by utilizing BERT models (both uncased and cased) to investigate how word embeddings change with different contextual words, providing deeper insights into semantic relationships</li>
-  <li>Created a flexible embedding analysis tool using Python that integrates multiple models like RoBERTa and FastText, enabling easy compare and evaluate approach across various NLP frameworks</li>
-  <li>Performed detailed similarity assessments using cosine similarity and Hamming distance metrics to explore the relationships between target words in diverse contexts</li>
+      <li>Spearheaded embedding analysis research across multiple state-of-the-art language models (including BERT and RoBERTa), processing over 10M tokens to investigate contextual embedding behavior through multiple linguistic transformations including sentence reversals, positional shifts, and phrase selections</li>
+  <li>Built dynamic Streamlit application enabling real-time analysis of embedding variations, incorporating features for custom window sizes, phrase and word selection, and model selection</li>
+  <li>Developed automated Python scripts for large-scale embedding analysis, reducing manual processing time by implementing efficient data processing pipelines</li>
+  <li>Presented complex technical findings into clear research reports and delivered presentations to researchers, effectively communicating the impact of positional and contextual dependencies</li>
     </ul>
     <ul class="skills">
       <li>Python</li>
       <li>LLMs</li>
-      <li>NER </li>
-      <li>SpaCy</li>
+      <li>Streamlit</li>
+      <li>RoBERTa</li>
       <li>BERT</li>
       <li>Natural Language Processing (NLP)</li>
       <li>PyTorch</li>
-      <li>Text Classification</li>
-      <li>Git</li> <li>Web Scrapping</li> <li>Data Cleaning</li><li>Data Analysis</li>
+      <li>Embedding Analysis</li>
+      <li>Git</li> <li>AI</li><li>Model Training</li> <li>Data Cleaning</li><li>Data Analysis</li>
     </ul>
   </div>
   
