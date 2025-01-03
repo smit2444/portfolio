@@ -6,7 +6,7 @@ layout: default
   <div class="experience-card">
     <div class="experience-header">
       <div>
-        <h2 class="item_title">Research Assitant</h2>
+        <h2 class="item_title">Software Engineer</h2>
         <h3 class="company-name">Rutgers Institute of Data Science and Learning Application</h3>
       </div>
       <p class="present_date">Dec. 2023 - Present</p>
