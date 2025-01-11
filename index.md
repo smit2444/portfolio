@@ -1,6 +1,86 @@
 ---
 layout: default
 ---
+<h2 class="section_title">Projects</h2>
+  <div class="project_container">
+  <div class="card">
+    <img class="card-image" src="/portfolio/assets/img/WhiteBoard.png" alt="Project Image">
+    <h2 class="item_title">WhiteBoard</h2>
+    <ul class="skills">
+      <li>ReactJS</li>
+      <li>TailwindCSS</li>
+    </ul>
+    <p class="item_des">A tool that helps user present multiple content, such as images, PDFs, CSVs, MP4, TXT, Code and, Draw at once during online sessions.
+    </p>
+    <a href="/portfolio/pages/whiteboard" class="read-more"><button class="button">Read More</button></a>
+  </div>
+  <!-- <div class="card">
+    <img class="card-image" src="/portfolio/assets/img/Twitter Sentiment Analysis.png" alt="Project Image">
+    <h2 class="item_title">Twitter Sentiment Analysis</h2>
+    <ul class="skills">
+      <li>Streamlit</li>
+      <li>Machine Learning</li>
+      <li>Random Forest</li>
+      <li>Support Vector Machines</li>
+      <li>AdaBoost</li>
+      <li>Logistic Regression</li>
+      <li>Ensemble Techniques</li>
+      <li>Data Training</li>
+      <li>Data Preparation</li>
+    </ul>
+    <p class="item_des">A machine learning project that aims to help user learn about their tweet sentiment. Trained on 1 million data....
+    </p>
+    <a href="/portfolio/pages/twitter-sentiment-analysis" class="read-more"><button class="button">Read More</button></a>
+  </div> -->
+  <div class="card">
+    <img class="card-image" src="/portfolio/assets/img/Syfer Chat.png" alt="Project Image">
+    <h2 class="item_title">Syfer Chat - Realtime Text Messages</h2>
+    <ul class="skills">
+      <li>Firebase</li>
+      <li>ReactJS</li>
+      <li>JavaScript</li>
+      <li>Firestore</li>                                                            
+    </ul>
+    <p class="item_des">Developed a dynamic chat application featuring real-time messaging and user authentication. </p>
+    <a href="/portfolio/pages/syferchat" class="read-more"><button class="button">Read More</button></a>
+  </div>
+  
+  <div class="card">
+    <img class="card-image" src="/portfolio/assets/img/Collabrative Research Web Application.png" alt="Project Image">
+    <h2 class="item_title">Accelerating Genomic Data Sharing and Collaborative Research with Privacy Protection</h2>
+    <ul class="skills">
+      <li>React JS</li>
+      <li>Material UI</li>
+      <li>Flask</li>
+      <li>Python</li>
+      <li>REST APIs</li>
+      <li>MongoDB</li>
+      <li>UI/UX</li>                                                           
+    </ul>
+    <p class="item_des">Developed key web application components including the Dashboard, Search, Upload, and Collaboration pages, and designed API endpoints such as Send Invitation and Search to enhance functionality and user interaction.</p>
+    <a href="/portfolio/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
+  </div>
+  <div class="card">
+    <img class="card-image" src="/portfolio/assets/img/Planton Classification.png" alt="Project Image">
+    <h2 class="item_title">Classification of Plankton using Deep Neural Networks</h2>
+    <ul class="skills">
+      <li>Python</li>
+      <li>CNN</li>
+      <li>Machine Learning</li>
+      <li>VGG16</li>
+      <li>PyTorch</li>
+      <li>NumPy</li>
+      <li>Seaborn</li>
+      <li>Matplotlib</li>
+      <li>Data Augmentation</li>
+      <li>Data Pre-processing</li>
+      <li>Data Visulization</li>                                                        
+    </ul>
+    <p class="item_des">Preprocessed the IFCB plankton dataset by rescaling 1 million+ images, automating data cleaning, and addressing class imbalances. Developed an automated plankton identification system with a pre-trained VGG16 network, optimizing classification accuracy and reducing manual labeling.</p>
+    <a href="/portfolio/pages/classification-of-plankton-using-deep-neural-networks" class="read-more"><button class="button">Read More</button></a>
+  </div>
+  <!-- Add more cards here as needed -->
+</div>
 <h2 class="section_title">Experience</h2>
 <div class="experience-container">
   <div class="experience-card">
@@ -92,57 +172,6 @@ layout: default
   </div>
   <!-- Add more experience cards as needed -->
 </div>
-  <h2 class="section_title">Projects</h2>
-  <div class="project_container">
-  <div class="card">
-    <img class="card-image" src="/portfolio/assets/img/Syfer Chat.png" alt="Project Image">
-    <h2 class="item_title">Syfer Chat - Realtime Text Messages</h2>
-    <ul class="skills">
-      <li>Firebase</li>
-      <li>ReactJS</li>
-      <li>JavaScript</li>
-      <li>Firestore</li>                                                            
-    </ul>
-    <p class="item_des">Developed a dynamic chat application featuring real-time messaging and user authentication. </p>
-    <a href="/portfolio/pages/syferchat" class="read-more"><button class="button">Read More</button></a>
-  </div>
-  
-  <div class="card">
-    <img class="card-image" src="/portfolio/assets/img/Collabrative Research Web Application.png" alt="Project Image">
-    <h2 class="item_title">Accelerating Genomic Data Sharing and Collaborative Research with Privacy Protection</h2>
-    <ul class="skills">
-      <li>React JS</li>
-      <li>Material UI</li>
-      <li>Flask</li>
-      <li>Python</li>
-      <li>REST APIs</li>
-      <li>MongoDB</li>
-      <li>UI/UX</li>                                                           
-    </ul>
-    <p class="item_des">Developed key web application components including the Dashboard, Search, Upload, and Collaboration pages, and designed API endpoints such as Send Invitation and Search to enhance functionality and user interaction.</p>
-    <a href="/portfolio/pages/genomics-data-sharing" class="read-more"><button class="button">Read More</button></a>
-  </div>
-  <div class="card">
-    <img class="card-image" src="/portfolio/assets/img/Planton Classification.png" alt="Project Image">
-    <h2 class="item_title">Classification of Plankton using Deep Neural Networks</h2>
-    <ul class="skills">
-      <li>Python</li>
-      <li>CNN</li>
-      <li>Machine Learning</li>
-      <li>VGG16</li>
-      <li>PyTorch</li>
-      <li>NumPy</li>
-      <li>Seaborn</li>
-      <li>Matplotlib</li>
-      <li>Data Augmentation</li>
-      <li>Data Pre-processing</li>
-      <li>Data Visulization</li>                                                        
-    </ul>
-    <p class="item_des">Preprocessed the IFCB plankton dataset by rescaling 1 million+ images, automating data cleaning, and addressing class imbalances. Developed an automated plankton identification system with a pre-trained VGG16 network, optimizing classification accuracy and reducing manual labeling.</p>
-    <a href="/portfolio/pages/classification-of-plankton-using-deep-neural-networks" class="read-more"><button class="button">Read More</button></a>
-  </div>
-  <!-- Add more cards here as needed -->
-</div>
 <h2 class="section_title">Education</h2>
 <div class="experience-container">  <div class="experience-card">
     <div class="experience-header">
@@ -150,7 +179,7 @@ layout: default
         <h2 class="item_title">M.Sc Information Technology and Analytics</h2>
         <h3 class="company-name">Rutgers - The State University of New Jersey</h3>
       </div>
-      <p class="present_date">May 2024</p>
+      <p class="present_date">Dec. 2024</p>
     </div>
     <ul class="item_des">
       <li>Course Work: Data Structures and Algorithm, Data Mining, Business Data Management, Neural Networks and Deep Learning, Graph Methods and Network Analysis, Analytics for Business Intelligence, and Algorithmic Machine Learning</li>
